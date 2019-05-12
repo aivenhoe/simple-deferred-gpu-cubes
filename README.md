@@ -3,7 +3,7 @@
 generative geometry seemed easy, though I always wanted to be able to add shadows to the scene.
 For me this was an interesting project to learn about deferred lightning and unity's rendering pipeline with its command buffers.
 
-![gif](https://imgur.com/2QMGqwL.gif)
+![gif](https://imgur.com/a/auGMfS3.gif)
 feel free to use this code as you wish, any contributions and pull requests are welcome.
 
 ## thanks
