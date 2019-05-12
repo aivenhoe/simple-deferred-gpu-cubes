@@ -1,6 +1,6 @@
 ## generative geometry and shadows 
 
-generative geometry seemed easy, though I always wanted to be able to add shadows to the scene.
+generative and gpu instantiated geometry seemed easy, though I always wanted to be able to add shadows to the scene.
 For me this was an interesting project to learn about deferred lightning and unity's rendering pipeline with its command buffers.
 
 ![gif](https://imgur.com/3anv2Ap.gif)
